@@ -1,0 +1,57 @@
+.title
+{
+    font-size:40px;
+}
+
+.nav 
+{
+text-align:center;
+animation:normal;
+
+}
+.body
+{
+background:cornflowerblue;
+
+}
+.body1
+{
+    background-color : #660050;
+    font-family : arial;
+    color : White;
+
+}
+.body2 {
+    background-color : #006600;
+    font-family : arial;
+    color : White;
+    }
+
+    .body3 {
+        background-color : #0e005c;
+        font-family : arial;
+        color : White;
+        }
+ul{
+list-style-type:none;
+margin:0;
+padding: 0;
+overflow: hidden;
+background-color: teal;
+}
+li {
+float:left
+}
+ li a{
+    display:block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.img {
+width:220px;
+height: 220px;
+justify-items:flex-end;
+
+}
